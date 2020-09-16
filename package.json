@@ -7,6 +7,18 @@
     "dev": "webpack-dev-server --mode development",
     "build": "webpack --mode production"
     "test": "(eslint lib || true) && jest"
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Master-Hippo/Front-End_Web_UI_Frameworks_and_Tools.git"
+      },
+      "author": "Master-Hippo",
+      "license": "ISC",
+      "bugs": {
+        "url": "https://github.com/Master-Hippo/Front-        
+    End_Web_UI_Frameworks_and_Tools/issues"
+      },
+      "homepage": "https://github.com/Master-Hippo/Front-    
+    End_Web_UI_Frameworks_and_Tools#readme"
   },
   "dependencies": {
     "@babel/cli": "^7.11.6",
